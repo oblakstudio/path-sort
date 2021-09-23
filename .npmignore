@@ -1,4 +1,6 @@
 .github
+build
+coverage
 lib
 .releaserc
 .editorconfig
