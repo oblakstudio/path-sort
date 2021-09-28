@@ -1,4 +1,4 @@
 exclude_patterns:
-  ".github/*"
-  "build/*"
-  "lib/*.spec.ts"
+  - ".github/*"
+  - "build/*"
+  - "lib/*.spec.ts"
