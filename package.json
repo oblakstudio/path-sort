@@ -31,7 +31,7 @@
     "release": "node ./node_modules/semantic-release/bin/semantic-release.js"
   },
   "engines": {
-    "node": ">= 14.0.0"
+    "node": ">= 14"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
