@@ -1,6 +1,10 @@
 <div align="center">
+
 # Path-sort
+
 </div>
+
+Sorts a list of file/direcotry paths
 
 ## Usage
 **As a function**
